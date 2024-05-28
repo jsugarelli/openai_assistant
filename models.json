@@ -1,0 +1,32 @@
+{
+    "gpt-4o": {
+        "input": {
+            "price": 5,
+            "tokens": 10000000
+        },
+        "output": {
+            "price": 15,
+            "tokens": 10000000
+        }
+    }, 
+    "gpt-4-turbo": {
+        "input": {
+            "price": 10,
+            "tokens": 10000000
+        },
+        "output": {
+            "price": 30,
+            "tokens": 10000000
+        }
+    }, 
+    "gpt-3.5-turbo": {
+        "input": {
+            "price": 0.5,
+            "tokens": 10000000
+        },
+        "output": {
+            "price": 1.5,
+            "tokens": 10000000
+        }
+    }        
+}
